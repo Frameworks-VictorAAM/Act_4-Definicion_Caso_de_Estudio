@@ -1,9 +1,11 @@
 # Tienda de musica Indie.
+<img width="512" height="768" alt="Ilustración artístic" src="https://github.com/user-attachments/assets/efbc8260-42b5-4a1e-8c9a-911f37d24049" />
+
 ***
 ## Descripcion:
-Tienda para venta de albunes.
+Tienda para venta de albunes, streaming.
 ***
-## Requerimientos Funcionales
+## Requerimientos Funcionales.
 ```
 - 🐱‍💻Login para Usuarios y Compositores
 - 🎶Gestion de catalogo de musica (Debe debe permitir registrar, actualizar y eliminar álbumes con información como título, artista, género, precio y portada.)
@@ -21,5 +23,14 @@ Tienda para venta de albunes.
   ```
 ***
 ## Tecnologias y Herramientas del Sistema.
+- React
+- GIT
+- Node
+- HTML
+- Java Script
+***
+## Diagrama de Flujo.
+
+
 
 
